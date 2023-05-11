@@ -29,5 +29,3 @@
 Have a good day. ☺️ 
 
 <!--![](https://img.shields.io/badge/Interest-%F0%9F%8F%80%20%2F%20NBA-blue)-->
-
-<a href=" ">< img src="https://s11.flagcounter.com/count2/VOlE/bg_FFFFFF/txt_000000/border_F7F7F7/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a >
