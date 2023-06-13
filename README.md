@@ -1,5 +1,7 @@
 ### About me
 - 👨‍🎓 Phd student in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
+  🕸️ [My homepage](https://zju-fangyin.github.io/)
+  ❗️ I am currently seeking a post-doc position in the field of AI4Science and natural language processing. Feel free to reach me if you are interested in my research!
 
 - 📫 My email: 
   [![Gmail Badge](https://img.shields.io/badge/-fangyin@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fangyin@zju.edu.cn)](mailto:fangyin@zju.edu.cn)
