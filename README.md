@@ -1,6 +1,6 @@
 ### About me
 
-❗️ I am currently looking for a **post-doc** position in the field of AI4Science and natural language processing. Feel free to reach me if you are interested in my research!
+❗️ I am currently looking for a **post-doc** position in the field of AI4Science/NLP/KG. Feel free to reach me if you are interested in my research!
 
 - 👨‍🎓 Phd student in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
 
