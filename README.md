@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently pursuing my Ph.D. in [Computer Science](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/english). 
 
-- 🌐 Do visit my personal [homepage](https://zju-fangyin.github.io/) for more insights into my work.
+- 🌐 Do visit my personal [homepage](https://zju-fangyin.github.io) for more insights into my work.
 
 - 📩 For further communication, please email me at: [![Gmail Badge](https://img.shields.io/badge/-fangyin@zju.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fangyin@zju.edu.cn)](mailto:fangyin@zju.edu.cn)
 
