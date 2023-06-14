@@ -1,6 +1,6 @@
 ### About me
 
-- 🔍 I'm actively seeking **post-doc opportunities** in the exciting domains of AI for Science, Natural Language Processing, and Knowledge Graphs.
+- 🔍 I'm actively seeking **post-doc opportunities** in the exciting domains of AI for Science, Natural Language Processing, and Knowledge Graphs. If my research sparks your interest, I would love to hear from you!
 
 - 🎓 I'm currently pursuing my Ph.D. in [Computer Science](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/english). 
 
