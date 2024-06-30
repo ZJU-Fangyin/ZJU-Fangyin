@@ -1,8 +1,6 @@
 ### About me
 
-- 🔍 I'm actively seeking **post-doc opportunities** in the exciting domains of AI for Science, Natural Language Processing, and Knowledge Graphs. If my research sparks your interest, I would love to hear from you!
-
-- 🎓 I'm currently pursuing my Ph.D. in [Computer Science](http://www.en.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/english). 
+- 🎓 I recently earned my Ph.D. degree in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english) in June 2024.
 
 - 🌐 Do visit my personal [homepage](https://zju-fangyin.github.io) for more insights into my work.
 
